@@ -1,0 +1,12 @@
+# HelpDesk Assistant - Python Dependencies
+
+# System information gathering
+psutil>=5.9.0
+
+# OpenAI API client
+openai==0.28.1
+
+# Standard library modules (no installation needed)
+# - platform
+# - os
+# - json
